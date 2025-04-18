@@ -4,7 +4,7 @@
 
 🎓 Passionné par les technologies web et le développement logiciel.
 
-🚧 Actuellement, je travaille sur **Business Care**, mon projet annuel de deuxième année : un **site web** complet utilisant les librairies **NESTJS** et **Vue.js**, axé sur la gestion de la relation client et les solutions IT.
+🚧 Actuellement, je travaille sur **Business Care**, mon projet annuel de deuxième année : un **site web** complet utilisant les librairies **NESTJS** et **Vue.js**.
 
 ## Compétences & Technologies
 
