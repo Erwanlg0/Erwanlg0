@@ -12,6 +12,7 @@ Je travaille actuellement sur plusieurs fronts :
 
 * **Projets Professionnels :** Développement et automatisation de plusieurs solutions utilisant **Java**, **PHP**, **Kotlin**, et des outils **Low-Code (n8n)**.
 * **Projet Académique (Connected Neighbours : Projet annuel 3ème année) :** Système distribué Offline-First exploitant une architecture Java hexagonale synchronisée sur Node.js, une persistance polyglotte (MongoDB/Neo4j) avec DSL personnalisé via Lex/Yacc, et une sécurisation critique SSO/MFA conforme RGPD.
+* **Projets Personnels :** Deux applications Android natives en Kotlin / Jetpack Compose — Studly (client MyGES offline-first, cache chiffré SQLCipher, architecture hexagonale) et SwiftSplit (timer de speedrun avec import LiveSplit .lss et intégration Speedrun.com).
 
 ---
 
