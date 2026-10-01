@@ -1,6 +1,6 @@
 # Salut 👋, je suis Erwan Luce--Guédon
 
-**Étudiant en troisième année** du cursus **Architecture et Logiciel (AL)** à l'**ESGI (École Supérieure de Génie Informatique)**, campus de Paris.
+**Étudiant en quatrième année** du cursus **Architecture et Logiciel (AL)** à l'**ESGI (École Supérieure de Génie Informatique)**, campus de Paris.
 
 🎓 Passionné par les technologies web et le développement logiciel.
 
@@ -11,7 +11,7 @@
 Je travaille actuellement sur plusieurs fronts :
 
 * **Projets Professionnels :** Développement et automatisation de plusieurs solutions utilisant **Java**, **PHP**, **Kotlin**, et des outils **Low-Code (n8n)**.
-* **Projet Académique (Connected Neighbours : Projet annuel 3ème année) :** Système distribué Offline-First exploitant une architecture Java hexagonale synchronisée sur Node.js, une persistance polyglotte (MongoDB/Neo4j) avec DSL personnalisé via Lex/Yacc, et une sécurisation critique SSO/MFA conforme RGPD.
+* **Projet Annuel 4AL (plateforme d’administration multi-organisation)** : API Java 25/Spring Boot en architecture hexagonale et CQRS, avec PostgreSQL/Flyway, Keycloak/OIDC, MFA et clés API à permissions ciblées, complétée par une console React/TypeScript (Vite, Tailwind/shadcn) pour administrer organisations, SSO, Rust.
 * **Projets Personnels :** Deux applications Android natives en Kotlin / Jetpack Compose — Studly (client MyGES offline-first, cache chiffré SQLCipher, architecture hexagonale) et SwiftSplit (timer de speedrun avec import LiveSplit .lss et intégration Speedrun.com).
 
 ---
